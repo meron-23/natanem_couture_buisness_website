@@ -1,12 +1,29 @@
-# React + Vite
+# Natanem Couture Business Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Home of Elegance and Style - The First Haute Couture Hat Makers in Ethiopia
 
-Currently, two official plugins are available:
+This project is a modern, responsive business website for Natanem Couture, a distinguished clothing brand and the pioneering haute couture hat maker in Ethiopia. Designed to showcase their unique blend of traditional artistry and contemporary elegance, this website provides a digital storefront and brand presence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+* **Responsive Design:** Optimized for seamless viewing across various devices (mobile, tablet, desktop).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Dynamic Hero Section:** Features a captivating background image carousel with a smooth fade effect, showcasing the brand's elegance.
+
+* **Comprehensive About Section:** Detailed information about Natanem Couture as a brand and a dedicated section introducing the visionary designer, Natanem Wondeson.
+
+* **Collections Overview:** A section to highlight different product categories (Hats, Apparel, Accessories).
+
+* **Contact Information:** Clear contact details and a placeholder contact form for inquiries.
+
+* **Smooth Scrolling Navigation:** Easy navigation between sections of the single-page application.
+
+## Technologies Used
+
+* **React:** A JavaScript library for building user interfaces.
+
+* **Vite:** A fast frontend build tool that significantly improves the development experience.
+
+* **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
+
+* **Lucide React:** A collection of beautiful, open-source icons for React applications.
